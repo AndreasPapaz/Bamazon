@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "amazon like store front",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreasPapaz/Bamazon.git"
+  },
+  "author": "Andreas Papazafeiropoulos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreasPapaz/Bamazon/issues"
+  },
+  "homepage": "https://github.com/AndreasPapaz/Bamazon#readme",
+
+  "dependencies": {
+    "inquirer": "^1.0.0",
+    "mysql": "^2.10.2",
+    "console.table": "^0.8.0"
+  }
+}
+
