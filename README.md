@@ -37,8 +37,4 @@ After they confirm, they are then sent back to the home screen and they can see 
 * console.table
 * inquirer
 
-
-# Contributors: 
----
-
 Andreas Papazafeiropoulos [WebSite](http://www.andreaspapaz.com)
